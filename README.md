@@ -8,8 +8,7 @@ A modern Pokemon web application built with **Next.js**, **React Query**, and th
 
 The application is deployed and available at:
 
-👉 [**View Live App**](https://your-deployment-url.com)  
-*(Coming soon — link will be added once deployed)*
+👉 [**View Live App**](https://pokemontable.onrender.com/pokemon)
 
 ---
 
