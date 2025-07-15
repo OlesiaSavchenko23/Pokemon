@@ -1,0 +1,28 @@
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.th {
+  padding: 12px;
+  text-align: left;
+  background-color: #f8f9fa;
+  border: 1px solid #dee2e6;
+  font-weight: bold;
+}
+
+.td {
+  padding: 12px;
+  border: 1px solid #dee2e6;
+}
+
+.tr {
+  cursor: pointer;
+  background-color: white;
+  transition: background-color 0.2s;
+}
+
+.tr:hover {
+  background-color: #f1f1f1;
+}

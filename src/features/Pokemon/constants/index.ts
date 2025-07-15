@@ -1,0 +1,1 @@
+export { POKEMON_API_CONFIG } from './serverConfig'

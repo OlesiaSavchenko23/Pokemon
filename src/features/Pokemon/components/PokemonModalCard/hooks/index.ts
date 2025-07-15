@@ -1,0 +1,1 @@
+export { usePokemonModal } from './usePokemonModal'

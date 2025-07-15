@@ -1,0 +1,1 @@
+export { usePokemonPagination } from './usePokemonPagination'
